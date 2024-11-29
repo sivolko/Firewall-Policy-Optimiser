@@ -1,0 +1,9 @@
+[
+    {"rule_id": 1, "protocol": "TCP", "src_network": "192.168.1.0/24", "dest_network": "192.168.2.0/24", "src_port": 80, "dest_port": 80, "action": "ALLOW"},
+    {"rule_id": 2, "protocol": "TCP", "src_network": "192.168.1.0/24", "dest_network": "192.168.2.0/24", "src_port": 80, "dest_port": 80, "action": "DENY"},
+    {"rule_id": 3, "protocol": "UDP", "src_network": "192.168.3.0/24", "dest_network": "192.168.4.0/24", "src_port": 53, "dest_port": 53, "action": "ALLOW"},
+    {"rule_id": 4, "protocol": "TCP", "src_network": "192.168.5.0/24", "dest_network": "192.168.6.0/24", "src_port": 22, "dest_port": 22, "action": "ALLOW"},
+    {"rule_id": 5, "protocol": "UDP", "src_network": "192.168.7.0/24", "dest_network": "192.168.8.0/24", "src_port": 123, "dest_port": 123, "action": "ALLOW"},
+    {"rule_id": 6, "protocol": "TCP", "src_network": "192.168.1.0/24", "dest_network": "192.168.2.0/24", "src_port": 443, "dest_port": 443, "action": "ALLOW"},
+    {"rule_id": 7, "protocol": "TCP", "src_network": "192.168.1.0/24", "dest_network": "192.168.2.0/24", "src_port": 443, "dest_port": 443, "action": "DENY"}
+]
