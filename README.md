@@ -63,6 +63,8 @@ docker build -t firewall .
 docker run -p 8501:8501 firewall
 ```
 ## Docker Hub 
+![image](https://github.com/user-attachments/assets/9640b1d1-4048-44e4-9ec6-6101d9721f95)
+
 ```
 docker pull sivolko/firewall-policy-optimiser
 ```
