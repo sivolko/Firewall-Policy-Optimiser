@@ -70,7 +70,8 @@ docker pull sivolko/firewall-policy-optimiser
 ```
 Runnig locally with docker  
 
-![image](https://github.com/user-attachments/assets/8e36e16f-9042-42d7-859d-d88260420bf7)
+![image](https://github.com/user-attachments/assets/aab7c545-4585-48c0-bbde-599380634ac4)
+
 
 ## Detect Conflicting Rules
 
