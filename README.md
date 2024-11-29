@@ -62,3 +62,20 @@ docker build -t firewall .
 ```
 docker run -p 8501:8501 firewall
 ```
+
+Runnig locally with docker  
+
+![image](https://github.com/user-attachments/assets/8e36e16f-9042-42d7-859d-d88260420bf7)
+
+## Detect Conflicting Rules
+
+![image](https://github.com/user-attachments/assets/63125276-b1b7-4469-bb7b-f242bcf51b30)
+
+## Optimised Rules 
+![image](https://github.com/user-attachments/assets/858d88d1-a1c5-4d84-9fd2-f1b253e0449b)
+
+## Chart 
+![image](https://github.com/user-attachments/assets/f3253df6-270b-4e0c-8b9a-396a3d85a449)
+
+
+
