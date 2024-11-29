@@ -62,7 +62,10 @@ docker build -t firewall .
 ```
 docker run -p 8501:8501 firewall
 ```
-
+## Docker Hub 
+```
+docker pull sivolko/firewall-policy-optimiser
+```
 Runnig locally with docker  
 
 ![image](https://github.com/user-attachments/assets/8e36e16f-9042-42d7-859d-d88260420bf7)
